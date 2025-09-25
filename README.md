@@ -4,8 +4,8 @@ Starter repository for CheckPoints 1–3. Use this to begin your assignments.
 
 ## Status Badges
 
-- CI: ([![CI Pipeline](https://github.com/RoSan587/CSP451-CheckPoint3-rosan/actions/workflows/ci.yml/badge.svg)](https://github.com/RoSan587/CSP451-CheckPoint3-rosan/actions/workflows/ci.yml)
-- Pages: ([![pages-build-deployment](https://github.com/RoSan587/CSP451-CheckPoint3-rosan/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/RoSan587/CSP451-CheckPoint3-rosan/actions/workflows/pages/pages-build-deployment)
+- CI: ![CI Pipeline](https://github.com/RoSan587/CSP451-CheckPoint3-rosan/actions/workflows/ci.yml/badge.svg)](https://github.com/RoSan587/CSP451-CheckPoint3-rosan/actions/workflows/ci.yml)
+- Pages: [![pages-build-deployment](https://github.com/RoSan587/CSP451-CheckPoint3-rosan/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/RoSan587/CSP451-CheckPoint3-rosan/actions/workflows/pages/pages-build-deployment)
 - Coverage: ![codecov](https://codecov.io/gh/OWNER/REPO/branch/main/graph/badge.svg)
 
 Replace `OWNER/REPO` with your GitHub path after your first push.
